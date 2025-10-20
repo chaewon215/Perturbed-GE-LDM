@@ -6,8 +6,9 @@ Author: ***Chaewon Kim, Sunyong Yoo***
 
 ## Datasets
 ### LINCS L1000 for drug-induced transcriptional profiles
-The L1000 was downloaded from the Gene Expression Omnibus with the accession number ([GSE92742](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE92742)). 
-You can also access the preprocessed LINCS L1000 data through the PRnet repository: https://github.com/Perturbation-Response-Prediction/PRnet
+The L1000 was downloaded from the Gene Expression Omnibus with the accession number ([GSE92742](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE92742)).  
+You can also access the preprocessed LINCS L1000 data through the PRnet repository:  
+https://github.com/Perturbation-Response-Prediction/PRnet
 
 ### IC50 data for drug sensitivity
 The IC50 data was downloaded from the GDSC2 website (https://www.cancerrxgene.org/).
